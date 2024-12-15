@@ -284,4 +284,4 @@ void generateRandomPassword(char a[], int charsetSize, int length) {
 
     } while (i < length);
 
-}   explain this code to me baby
+}
